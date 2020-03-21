@@ -1,0 +1,43 @@
+html{
+   height: 100%;
+   width: 100%;
+  background: url(newest-small-narrow-sunglasses-women-retro.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+font-family: 'Montserrat', sans-serif;
+
+}
+.buffer{
+    height: 10rem;
+}
+
+.btn{
+    font-weight: 700;
+    border-radius: 60px;
+    background-color: salmon;
+    text-transform: uppercase;
+    text-align: center;
+}
+.btn-xl{
+    padding: 1rem 2rem;
+}
+.container{
+margin: auto;}
+.btn-primary{
+    background-color: sandybrown;
+    border-color: sandybrown;
+ max-width: 200px;
+}
+.btn-primary:hover{
+    background-color: sienna;
+border-color: sienna;
+border-width: 4px;
+}
+hr{
+    border-color: sienna;
+    border-width: 4px;
+    max-width: 67px;
+    
+}
